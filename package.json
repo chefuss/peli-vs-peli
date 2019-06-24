@@ -1,0 +1,19 @@
+{
+  "name": "peli-vs-peli",
+  "version": "1.0.0",
+  "description": "practico del ejercicio peli vs peli de acamica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
